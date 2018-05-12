@@ -15,7 +15,7 @@ public class Greeter {
   /**
    * This method is used to say customized hello
    *
-   * @param person's name
+   * @param someone person's name
    * @return greeting containing person's name
    */
   public final String greet(final String someone) {
