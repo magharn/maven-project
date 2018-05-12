@@ -13,7 +13,7 @@ public class Greeter {
   }
 
   /**
-   * This method is used to say customized hello
+   * This method is used to say customized hello.
    *
    * @param someone person's name
    * @return greeting containing person's name
